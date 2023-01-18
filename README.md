@@ -14,7 +14,7 @@ A responsive Contact App created to use Firebase Database
 
 #### [View Demo](https://firecontactapp-proj.netlify.app/)
 
-![Demo](./src/assets/firecontact.gif)
+![Demo](./src/assets/firecontact_1.gif)
 
 <hr />
 

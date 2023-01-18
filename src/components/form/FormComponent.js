@@ -37,7 +37,7 @@ const FormComponent = ({ info, setInfo,handleSubmit,isAdd }) => {
       <p className="contact-header">
         <div>
           <a
-            href="https://clarusway.com/"
+            href="https://hilalsportfolio.netlify.app/"
             className="design"
             target="_blank"
             rel="noopener noreferrer"
