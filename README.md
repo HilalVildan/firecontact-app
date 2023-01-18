@@ -1,6 +1,6 @@
 # FireContact App
 
-A responsive Contact App created to use Firebase Database
+A responsive Contact App created by using Firebase Database
 
 <hr />
 
